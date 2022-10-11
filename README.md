@@ -1,4 +1,4 @@
-# GoodTravel-semi-project
+# ✈️ GoodTravel-semi-project
 __여행지를 검색하거나 랜덤으로 추천받고 가입을 통해 위시리스트도 만드는 공간__
 * * *   
 
