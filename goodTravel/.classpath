@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/YULH/eclipse/oracle/jar/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YULH/eclipse/oracle/jar/oraclepki.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YULH/eclipse/oracle/jar/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="C:/Users/YULH/eclipse/oracle/jar/osdt_core.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
